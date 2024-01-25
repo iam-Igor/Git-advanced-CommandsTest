@@ -11,3 +11,7 @@ const checkEvenOrOdd = (number1) => {
     return false;
   }
 };
+
+const printSomething = () => {
+  console.log("Something");
+};
